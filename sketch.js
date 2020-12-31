@@ -12,7 +12,7 @@ var scoreCount = 0; // score count!
 var playMode = 0;
 
 function preload() {
-  font = loadFont('font/slkscr.ttf'); // load font 'silk screen'
+  font = loadFont('slkscr.ttf'); // load font 'silk screen'
   music = loadSound('music.mp3'); // load music
 }
 
